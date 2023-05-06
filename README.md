@@ -1,2 +1,2 @@
-# nextj.s-learn
+# next.js-learn
 Next.JSの練習用リポジトリ
